@@ -1,0 +1,15 @@
+ja:
+  activerecord:
+    attributes:
+      active_admin/comment:
+        author: 作成者
+        author_type: 作成者種別
+        body: 本文
+        created_at: 作成日
+        namespace: 名前空間
+        resource: リソース
+        resource_type: リソース種別
+        updated_at: 更新日
+    models:
+      active_admin/comment: コメント
+      comment: コメント
