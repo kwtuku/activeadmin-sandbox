@@ -357,9 +357,9 @@ DEPENDENCIES
   factory_bot_rails
   jsbundling-rails
   letter_opener_web
-  pg (~> 1.1)
-  puma (~> 5.0)
-  rails (~> 7.0.4)
+  pg
+  puma
+  rails (= 7.0.4)
   rspec-rails
   rubocop
   rubocop-performance
